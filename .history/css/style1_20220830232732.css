@@ -1,0 +1,35 @@
+.title{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 68px;
+color: #000000;
+}
+.fone{
+    
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    
+    color: #000000;
+    
+
+}
+.anh{
+    position: absolute;
+width: 771px;
+height: 439px;
+left: 596px;
+top: 84px;
+
+background: url(Illustration 1.png);
+}
+.client ul li {
+    list-style: none;
+    padding-right: 20px;
+    margin-bottom: 100px;
+  }

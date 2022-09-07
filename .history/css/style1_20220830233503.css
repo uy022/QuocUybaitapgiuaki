@@ -1,0 +1,41 @@
+.title{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 68px;
+color: #000000;
+}
+.fone{
+    
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    
+    color: #000000;
+    
+
+}
+.anh{
+    position: absolute;
+width: 771px;
+height: 439px;
+left: 596px;
+top: 84px;
+
+}
+.client ul li {
+    list-style: none;
+    padding-right: 20px;
+    margin-bottom: 100px;
+    position: absolute;
+width: 117.95px;
+height: 72.08px;
+left: 781.81px;
+top: 601.66px;
+
+background: url(master-card-logo.png);
+  }

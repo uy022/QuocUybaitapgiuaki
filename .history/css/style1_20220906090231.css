@@ -1,0 +1,117 @@
+.menu_top {
+  background-color: black;
+  height: 50px;
+}
+
+.menu_top ul li {
+  display: inline-block;
+}
+
+header ul {
+  float: right;
+  margin: 0;
+}
+
+header ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 20px;
+  font-weight: bold;
+}
+
+header ul li a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black;
+}
+
+.slider {
+  background-color: green;
+  padding: 100px 0;
+  text-align: center;
+}
+
+.slider h1 {
+  font-size: 55px;
+  color: white;
+  text-transform: uppercase;
+}
+
+.slider p {
+  color: white;
+  font-size: 18px;
+}
+
+.content1 {
+  padding: 50px;
+}
+
+.content1 .title {
+  text-align: center;
+}
+
+.content1 .title h2 {
+  color: back;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+.content1 .title h2 span {
+  color: green;
+}
+
+.content1 .item {
+  text-align: center;
+}
+
+.content1 .item img {
+  width: 100px;
+  height: auto;
+}
+
+.content1 .item h3 {
+  text-transform: uppercase;
+  font-size: 18px;
+  margin: 15px 0;
+}
+
+.content2 {
+  padding: 50px;
+}
+
+.content2 .title {
+  text-align: center;
+}
+
+.content2 .title h2 {
+  color: back;
+  font-size: 50px;
+  text-transform: uppercase;
+}
+
+.content2 .title h2 span {
+  color: green;
+}
+
+.content2 .item {
+  text-align: center;
+}
+
+.content2 .item img {
+  width: 100px;
+  height: auto;
+}
+
+.content2 .item h3 {
+  text-transform: uppercase;
+  font-size: 18px;
+  margin: 15px 0;
+}
+
+.content2 .a {
+  left: 20%;
+  background-color: crimson;
+} /*# sourceMappingURL=style1.css.map */
+.btn__booknow {
+  background-color: red;
+}/*# sourceMappingURL=style1_20220906090231.css.map */

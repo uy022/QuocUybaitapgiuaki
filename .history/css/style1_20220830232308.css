@@ -1,0 +1,25 @@
+.title{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 68px;
+color: #000000;
+}
+.fone{
+    position: absolute;
+    width: 477px;
+    height: 165px;
+    left: 120px;
+    top: 294px;
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    
+    color: #000000;
+    
+
+}

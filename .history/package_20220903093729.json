@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "node-sass": "^7.0.1"
+  },
+  "name": "bootraps_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

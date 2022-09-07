@@ -1,0 +1,87 @@
+.title p{
+    font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 68px;
+color: #000000;
+}
+.fone{
+    
+    
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 22px;
+    
+    color: #000000;
+    
+
+}
+.anh{
+    position: absolute;
+width: 771px;
+height: 439px;
+left: 596px;
+top: 84px;
+
+}
+.client ul li {
+    list-style: none;
+    padding-right: 20px;
+    margin-bottom: 100px;
+  }
+.body{
+    margin: auto;
+}
+.an{
+    position: absolute;
+width: 299px;
+height: 647px;
+left: 903px;
+top: 774px;
+
+}
+.menu{
+    left: 3cm;
+}
+
+.body{
+    margin: 0%;
+}
+.tieude{
+    text-align: center;
+    background-color: #F5F7FD;
+}
+.content2{
+    background-color:#F36B7F ;
+}
+.title1{
+width: 506px;
+height: 176px;
+left: 120px;
+top: 898px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 40px;
+line-height: 54px;
+
+color: #FFFFFF;
+
+}
+.conte{
+text-align: center;
+background-color: #F5F7FD;
+}
+.a{
+    position: absolute;
+    width: 661px;
+    height: 562px;
+    left: 631px;
+    top: 2167px;
+    
+    background: url(Woman 1.png);
+}
